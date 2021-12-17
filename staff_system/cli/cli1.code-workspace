@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"tcp_func.h": "c",
+			"public.h": "c",
+			"type_traits": "c"
+		}
+	}
+}
